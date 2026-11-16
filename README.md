@@ -12,11 +12,11 @@ Reading the entire file using .read() and printing it.
 Reading the first line using .readline().
 Reading all the lines using .readlines() and converting them into a list of integers.
 ## Task-3
- Appending new sales to a file
+# Appending new sales to a file
  Reopening and printing the entire updated file.
  Optional: Printing the total no. of lines in the file .
  ## Task-4
- Generate Summary Report From  File
+# Generate Summary Report From  File
  Firstly; Reading all Sales values from Sales_data.txt .
  Converting the data into integers
  Calculating and Printing:
@@ -25,3 +25,14 @@ Reading all the lines using .readlines() and converting them into a list of inte
 # ~Lowest Sales
 # ~Average Sales 
 without use of advanced libraries
+## Task-5
+# Create product info file(user input)
+ Asking the user for 3 product names and thier prices
+ Writing them into a file named product.txt
+ Reading the content from file product.txt
+## Task-6
+# Read file safely
+ Asking the user for a filname to open
+ if the file exists it reads and prints it .
+ if not it prints a message.
+ 
