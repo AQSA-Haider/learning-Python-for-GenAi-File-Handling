@@ -35,4 +35,14 @@ without use of advanced libraries
  Asking the user for a filname to open
  if the file exists it reads and prints it .
  if not it prints a message.
+ ## Task-7
+ # Mini Project: Export Discounted price
+ firstly, Creating a dictionary
+ then, asking the user for a discounted price
+ and writing the discounted price into discount_report.txt
+ in the format:
+ Product | Original Price | Discounted Price
+ # Optional:
+appending a summary report .
+## Tasks Completed !!!
  
